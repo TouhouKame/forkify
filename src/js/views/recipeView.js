@@ -1,7 +1,6 @@
 import View from './View';
 
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
 const fracty = require('fracty');
 
 class RecipeView extends View {
